@@ -1,0 +1,1285 @@
+[
+    {
+      "gen": "第七屆",
+      "period": "2023/08~2025/07",
+      "members": [
+        {
+          "position": "理事長",
+          "group": [
+            {
+              "name": "張鈞法",
+              "link": "http://cchang.wordpress.com/",
+              "image": "./assets/image/cat111.jpg"
+            }
+          ]
+        },
+        {
+          "position": "副理事長",
+          "group": [
+            {
+              "name": "莊永裕",
+              "link": "http://www.csie.ntu.edu.tw/%7Ecyy/",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "常務理事",
+          "group": [
+            {
+              "name": "張鈞法",
+              "link": "http://cchang.wordpress.com/",
+              "image": ""
+            },
+            {
+              "name": "莊永裕",
+              "link": "http://www.csie.ntu.edu.tw/%7Ecyy/",
+              "image": ""
+            },
+            {
+              "name": "楊傳凱",
+              "link": "https://cgm.cs.ntust.edu.tw/Activity/lab/director.html",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "理事",
+          "group": [
+            {
+              "name": "王昱舜",
+              "link": "https://people.cs.nctu.edu.tw/~yushuen/",
+              "image": ""
+            },
+            {
+              "name": "朱宏國",
+              "link": "http://cgv.cs.nthu.edu.tw/hkchu/",
+              "image": ""
+            },
+            {
+              "name": "紀明德",
+              "link": "http://www.cs.nccu.edu.tw/~mtchi/indexc.htm",
+              "image": ""
+            },
+            {
+              "name": "胡敏君",
+              "link": "http://mislab.csie.ncku.edu.tw/",
+              "image": ""
+            },
+            {
+              "name": "陳履恆",
+              "link": "https://cgda.csie.ncnu.edu.tw/cglab/membersweb/lhchen/index.htm",
+              "image": ""
+            },
+            {
+              "name": "林奕成",
+              "link": "https://people.cs.nctu.edu.tw/~ichenlin/",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "名譽理事長",
+          "group": [
+            {
+              "name": "歐陽明",
+              "link": "http://www.cmlab.csie.ntu.edu.tw/%7Eming/",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "常務監事",
+          "group": [
+            {
+              "name": "林文杰",
+              "link": "http://gpl.cs.nctu.edu.tw/Steve-Lin/",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "監事",
+          "group": [
+            {
+              "name": "王銓彰",
+              "link": "",
+              "image": ""
+            },
+            {
+              "name": "陳炳宇",
+              "link": "http://graphics.csie.ntu.edu.tw/%7Erobin/",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "秘書長",
+          "group": [
+            {
+              "name": "王科植",
+              "link": "https://sites.google.com/view/kochihwang/home",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "活動委員會",
+          "group": [
+            {
+              "name": "陳炳宇（召集人）",
+              "link": "http://graphics.csie.ntu.edu.tw/%7Erobin/",
+              "image": ""
+            },
+            {
+              "name": "王銓彰",
+              "link": "",
+              "image": ""
+            },
+            {
+              "name": "林文杰",
+              "link": "http://gpl.cs.nctu.edu.tw/Steve-Lin/",
+              "image": ""
+            },
+            {
+              "name": "楊傳凱",
+              "link": "https://cgm.cs.ntust.edu.tw/Activity/lab/director.html",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "學術委員會",
+          "group": [
+            {
+              "name": "莊永裕（召集人）",
+              "link": "http://www.csie.ntu.edu.tw/%7Ecyy/",
+              "image": ""
+            },
+            {
+              "name": "莊榮宏",
+              "link": "",
+              "image": ""
+            },
+            {
+              "name": "李蔡彥",
+              "link": "",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "網站委員會",
+          "group": [
+            {
+              "name": "朱宏國（召集人）",
+              "link": "http://cgv.cs.nthu.edu.tw/hkchu/",
+              "image": ""
+            },
+            {
+              "name": "張鈞法",
+              "link": "http://cchang.wordpress.com/",
+              "image": ""
+            },
+            {
+              "name": "紀明德",
+              "link": "http://www.cs.nccu.edu.tw/~mtchi/indexc.htm",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "會員委員會",
+          "group": [
+            {
+              "name": "蔡侑庭（召集人）",
+              "link": "",
+              "image": ""
+            },
+            {
+              "name": "謝東儒",
+              "link": "",
+              "image": ""
+            },
+            {
+              "name": "王昱舜",
+              "link": "https://people.cs.nctu.edu.tw/~yushuen/",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "公關委員會",
+          "group": [
+            {
+              "name": "陳履恆（召集人）",
+              "link": "https://cgda.csie.ncnu.edu.tw/cglab/membersweb/lhchen/index.htm",
+              "image": ""
+            },
+            {
+              "name": "陳寶宏",
+              "link": "",
+              "image": ""
+            },
+            {
+              "name": "胡敏君",
+              "link": "http://mislab.csie.ncku.edu.tw/",
+              "image": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gen": "第六屆",
+      "period": "2021/08~2023/07",
+      "members": [
+        {
+          "position": "理事長",
+          "group": [
+            {
+              "name": "林文杰",
+              "link": "http://www.cs.nctu.edu.tw/%7Ewclin",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "副理事長",
+          "group": [
+            {
+              "name": "張鈞法",
+              "link": "http://cchang.wordpress.com/",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "常務理事",
+          "group": [
+            {
+              "name": "林文杰",
+              "link": "http://www.cs.nctu.edu.tw/%7Ewclin",
+              "image": ""
+            },
+            {
+              "name": "張鈞法",
+              "link": "http://cchang.wordpress.com/",
+              "image": ""
+            },
+            {
+              "name": "陳履恆",
+              "link": "http://cgda.csie.ncnu.edu.tw/cglab/membersweb/lhchen/index.htm",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "理事",
+          "group": [
+            {
+              "name": "朱宏國",
+              "link": "http://cgv.cs.nthu.edu.tw/hkchu",
+              "image": ""
+            },
+            {
+              "name": "紀明德",
+              "link": "https://www.cs.nccu.edu.tw/%7Emtchi/",
+              "image": ""
+            },
+            {
+              "name": "胡敏君",
+              "link": "http://mislab.cs.nthu.edu.tw/",
+              "image": ""
+            },
+            {
+              "name": "莊永裕",
+              "link": "http://www.csie.ntu.edu.tw/%7Ecyy/",
+              "image": ""
+            },
+            {
+              "name": "陳寶宏",
+              "link": "",
+              "image": ""
+            },
+            {
+              "name": "蔡侑庭",
+              "link": "http://www.cg.cse.yzu.edu.tw/faculty.html",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "名譽理事長",
+          "group": [
+            {
+              "name": "歐陽明",
+              "link": "http://www.cmlab.csie.ntu.edu.tw/%7Eming/",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "常務監事",
+          "group": [
+            {
+              "name": "李蔡彥",
+              "link": "https://www4.nccu.edu.tw/~tyli/",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "監事",
+          "group": [
+            {
+              "name": "王銓彰",
+              "link": "",
+              "image": ""
+            },
+            {
+              "name": "陳炳宇",
+              "link": "http://graphics.csie.ntu.edu.tw/%7Erobin/",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "秘書長",
+          "group": [
+            {
+              "name": "林奕成",
+              "link": "http://www.cs.nctu.edu.tw/%7Eichenlin",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "學會秘書",
+          "group": [
+            {
+              "name": "賴紫晴",
+              "link": "",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "活動委員會",
+          "group": [
+            {
+              "name": "陳炳宇（召集人）",
+              "link": "http://graphics.csie.ntu.edu.tw/%7Erobin/",
+              "image": ""
+            },
+            {
+              "name": "王銓彰",
+              "link": "",
+              "image": ""
+            },
+            {
+              "name": "林文杰",
+              "link": "http://www.cs.nctu.edu.tw/%7Ewclin",
+              "image": ""
+            },
+            {
+              "name": "楊傳凱",
+              "link": "https://cgm.cs.ntust.edu.tw/Activity/lab/director.html",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "學術委員會",
+          "group": [
+            {
+              "name": "莊永裕（召集人）",
+              "link": "http://www.csie.ntu.edu.tw/%7Ecyy/",
+              "image": ""
+            },
+            {
+              "name": "莊榮宏",
+              "link": "https://cggmwww.cs.nctu.edu.tw/index.php/members?view=article&id=20&catid=9",
+              "image": ""
+            },
+            {
+              "name": "李蔡彥",
+              "link": "https://www4.nccu.edu.tw/~tyli/",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "網站委員會",
+          "group": [
+            {
+              "name": "朱宏國（召集人）",
+              "link": "http://cgv.cs.nthu.edu.tw/hkchu",
+              "image": ""
+            },
+            {
+              "name": "張鈞法",
+              "link": "http://cchang.wordpress.com/",
+              "image": ""
+            },
+            {
+              "name": "紀明德",
+              "link": "https://www.cs.nccu.edu.tw/%7Emtchi/",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "會員委員會",
+          "group": [
+            {
+              "name": "蔡侑庭（召集人）",
+              "link": "http://www.cg.cse.yzu.edu.tw/faculty.html",
+              "image": ""
+            },
+            {
+              "name": "謝東儒",
+              "link": "https://myweb.ntut.edu.tw/~tjhsieh/",
+              "image": ""
+            },
+            {
+              "name": "王昱舜",
+              "link": "https://people.cs.nctu.edu.tw/~yushuen/",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "公關委員會",
+          "group": [
+            {
+              "name": "陳履恆（召集人）",
+              "link": "http://cgda.csie.ncnu.edu.tw/cglab/membersweb/lhchen/index.htm",
+              "image": ""
+            },
+            {
+              "name": "陳寶宏",
+              "link": "",
+              "image": ""
+            },
+            {
+              "name": "胡敏君",
+              "link": "http://mislab.cs.nthu.edu.tw/",
+              "image": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gen": "第五屆",
+      "period": "2019/08~2021/07",
+      "members": [
+        {
+          "position": "理事長",
+          "group": [
+            {
+              "name": "李蔡彥",
+              "link": "http://www3.nccu.edu.tw/%7Eli/",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "副理事長",
+          "group": [
+            {
+              "name": "林文杰",
+              "link": "http://www.cs.nctu.edu.tw/%7Ewclin",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "常務理事",
+          "group": [
+            {
+              "name": "莊永裕",
+              "link": "http://www.csie.ntu.edu.tw/%7Ecyy/",
+              "image": ""
+            },
+            {
+              "name": "林文杰",
+              "link": "http://www.cs.nctu.edu.tw/%7Ewclin",
+              "image": ""
+            },
+            {
+              "name": "李蔡彥",
+              "link": "http://www3.nccu.edu.tw/%7Eli/",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "理事",
+          "group": [
+            {
+              "name": "王昱舜",
+              "link": "http://people.cs.nctu.edu.tw/%7Eyushuen/",
+              "image": ""
+            },
+            {
+              "name": "朱宏國",
+              "link": "http://cgv.cs.nthu.edu.tw/hkchu",
+              "image": ""
+            },
+            {
+              "name": "張鈞法",
+              "link": "http://cchang.wordpress.com/",
+              "image": ""
+            },
+            {
+              "name": "陳履恆",
+              "link": "http://cgda.csie.ncnu.edu.tw/cglab/membersweb/lhchen/index.htm",
+              "image": ""
+            },
+            {
+              "name": "楊傳凱",
+              "link": "http://cgm.cs.ntust.edu.tw/lab/director.html",
+              "image": ""
+            },
+            {
+              "name": "胡敏君",
+              "link": "http://mislab.csie.ncku.edu.tw/",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "名譽理事長",
+          "group": [
+            {
+              "name": "歐陽明",
+              "link": "http://www.cmlab.csie.ntu.edu.tw/%7Eming/",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "名譽理事",
+          "group": [
+            {
+              "name": "陳寶宏",
+              "link": "",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "常務監事",
+          "group": [
+            {
+              "name": "陳炳宇",
+              "link": "http://graphics.csie.ntu.edu.tw/%7Erobin/",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "監事",
+          "group": [
+            {
+              "name": "王銓彰",
+              "link": "",
+              "image": ""
+            },
+            {
+              "name": "莊榮宏",
+              "link": "http://cggmwww.csie.nctu.edu.tw/jhchuang/",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "秘書長",
+          "group": [
+            {
+              "name": "紀明德",
+              "link": "https://www.cs.nccu.edu.tw/%7Emtchi/",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "活動委員會",
+          "group": [
+            {
+              "name": "王銓彰（召集人）",
+              "link": "",
+              "image": ""
+            },
+            {
+              "name": "陳炳宇",
+              "link": "http://graphics.csie.ntu.edu.tw/%7Erobin/",
+              "image": ""
+            },
+            {
+              "name": "林文杰",
+              "link": "http://www.cs.nctu.edu.tw/%7Ewclin",
+              "image": ""
+            },
+            {
+              "name": "楊傳凱",
+              "link": "http://cgm.cs.ntust.edu.tw/lab/director.html",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "學術委員會",
+          "group": [
+            {
+              "name": "莊榮宏（召集人）",
+              "link": "http://cggmwww.csie.nctu.edu.tw/jhchuang/",
+              "image": ""
+            },
+            {
+              "name": "歐陽明",
+              "link": "http://www.cmlab.csie.ntu.edu.tw/%7Eming/",
+              "image": ""
+            },
+            {
+              "name": "莊永裕",
+              "link": "http://www.csie.ntu.edu.tw/%7Ecyy/",
+              "image": ""
+            },
+            {
+              "name": "李同益（候補監事）",
+              "link": "http://graphics.csie.ncku.edu.tw/Tony/tony.htm",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "網站委員會",
+          "group": [
+            {
+              "name": "朱宏國（召集人）",
+              "link": "http://cgv.cs.nthu.edu.tw/hkchu",
+              "image": ""
+            },
+            {
+              "name": "張鈞法",
+              "link": "http://cchang.wordpress.com/",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "會員委員會",
+          "group": [
+            {
+              "name": "王昱舜（召集人）",
+              "link": "http://people.cs.nctu.edu.tw/%7Eyushuen/",
+              "image": ""
+            },
+            {
+              "name": "李蔡彥",
+              "link": "http://cggmwww.csie.nctu.edu.tw/jhchuang/",
+              "image": ""
+            },
+            {
+              "name": "蔡侑庭（候補理事）",
+              "link": "http://www.cg.cse.yzu.edu.tw/faculty.html",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "公關委員會",
+          "group": [
+            {
+              "name": "陳履恆（召集人）",
+              "link": "http://cgda.csie.ncnu.edu.tw/cglab/membersweb/lhchen/index.htm",
+              "image": ""
+            },
+            {
+              "name": "胡敏君",
+              "link": "http://mislab.csie.ncku.edu.tw/",
+              "image": ""
+            },
+            {
+              "name": "陳寶宏（名譽理事）",
+              "link": "",
+              "image": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gen": "第四屆",
+      "period": "2017/08~2019/07",
+      "members": [
+        {
+          "position": "理事長",
+          "group": [
+            {
+              "name": "陳炳宇",
+              "link": "http://graphics.csie.ntu.edu.tw/%7Erobin/",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "副理事長",
+          "group": [
+            {
+              "name": "莊榮宏",
+              "link": "http://cggmwww.csie.nctu.edu.tw/jhchuang/",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "常務理事",
+          "group": [
+            {
+              "name": "莊永裕",
+              "link": "http://www.csie.ntu.edu.tw/%7Ecyy/",
+              "image": ""
+            },
+            {
+              "name": "莊榮宏",
+              "link": "http://cggmwww.csie.nctu.edu.tw/jhchuang/",
+              "image": ""
+            },
+            {
+              "name": "陳炳宇",
+              "link": "http://graphics.csie.ntu.edu.tw/%7Erobin/",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "理事",
+          "group": [
+            {
+              "name": "王銓彰",
+              "link": "",
+              "image": ""
+            },
+            {
+              "name": "朱宏國",
+              "link": "http://cgv.cs.nthu.edu.tw/hkchu",
+              "image": ""
+            },
+            {
+              "name": "李宗南",
+              "link": "http://edith.cse.nsysu.edu.tw/CNLee.htm",
+              "image": ""
+            },
+            {
+              "name": "李蔡彥",
+              "link": "http://www3.nccu.edu.tw/%7Eli/",
+              "image": ""
+            },
+            {
+              "name": "林昭宏",
+              "link": "http://dgl.geomatics.ncku.edu.tw/",
+              "image": ""
+            },
+            {
+              "name": "楊傳凱",
+              "link": "http://cgm.cs.ntust.edu.tw/lab/director.html",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "常務監事",
+          "group": [
+            {
+              "name": "歐陽明",
+              "link": "http://www.cmlab.csie.ntu.edu.tw/%7Eming/",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "監事",
+          "group": [
+            {
+              "name": "張銘光",
+              "link": "",
+              "image": ""
+            },
+            {
+              "name": "張鈞法",
+              "link": "http://cchang.wordpress.com/",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "秘書長",
+          "group": [
+            {
+              "name": "林文杰",
+              "link": "",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "活動委員會",
+          "group": [
+            {
+              "name": "王銓彰（召集人）",
+              "link": "",
+              "image": ""
+            },
+            {
+              "name": "陳炳宇",
+              "link": "http://graphics.csie.ntu.edu.tw/%7Erobin/",
+              "image": ""
+            },
+            {
+              "name": "楊傳凱",
+              "link": "http://cgm.cs.ntust.edu.tw/lab/director.html",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "學術委員會",
+          "group": [
+            {
+              "name": "莊榮宏（召集人）",
+              "link": "http://cggmwww.csie.nctu.edu.tw/jhchuang/",
+              "image": ""
+            },
+            {
+              "name": "歐陽明",
+              "link": "http://www.cmlab.csie.ntu.edu.tw/%7Eming/",
+              "image": ""
+            },
+            {
+              "name": "莊永裕",
+              "link": "http://www.csie.ntu.edu.tw/%7Ecyy/",
+              "image": ""
+            },
+            {
+              "name": "李同益（候補監事）",
+              "link": "http://graphics.csie.ncku.edu.tw/Tony/tony.htm",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "網站委員會",
+          "group": [
+            {
+              "name": "朱宏國（召集人）",
+              "link": "http://cgv.cs.nthu.edu.tw/hkchu",
+              "image": ""
+            },
+            {
+              "name": "張鈞法",
+              "link": "http://cchang.wordpress.com/",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "會員委員會",
+          "group": [
+            {
+              "name": "王昱舜（召集人）",
+              "link": "http://people.cs.nctu.edu.tw/%7Eyushuen/",
+              "image": ""
+            },
+            {
+              "name": "李蔡彥",
+              "link": "http://www3.nccu.edu.tw/%7Eli/",
+              "image": ""
+            },
+            {
+              "name": "張銘光",
+              "link": "",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "公關委員會",
+          "group": [
+            {
+              "name": "陳履恆（召集人）",
+              "link": "http://cgda.csie.ncnu.edu.tw/cglab/membersweb/lhchen/index.htm",
+              "image": ""
+            },
+            {
+              "name": "李宗南",
+              "link": "http://edith.cse.nsysu.edu.tw/CNLee.htm",
+              "image": ""
+            },
+            {
+              "name": "林昭宏",
+              "link": "http://dgl.geomatics.ncku.edu.tw/",
+              "image": ""
+            },
+            {
+              "name": "王浩全（候補理事）",
+              "link": "http://www.haochuanwang.info/",
+              "image": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gen": "第三屆",
+      "period": "2015/08~2017/07",
+      "members": [
+        {
+          "position": "理事長",
+          "group": [
+            {
+              "name": "陳炳宇",
+              "link": "http://graphics.csie.ntu.edu.tw/%7Erobin/",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "副理事長",
+          "group": [
+            {
+              "name": "莊榮宏",
+              "link": "http://cggmwww.csie.nctu.edu.tw/jhchuang/",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "常務理事",
+          "group": [
+            {
+              "name": "莊永裕",
+              "link": "http://www.csie.ntu.edu.tw/%7Ecyy/",
+              "image": ""
+            },
+            {
+              "name": "莊榮宏",
+              "link": "http://cggmwww.csie.nctu.edu.tw/jhchuang/",
+              "image": ""
+            },
+            {
+              "name": "陳炳宇",
+              "link": "http://graphics.csie.ntu.edu.tw/%7Erobin/",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "理事",
+          "group": [
+            {
+              "name": "王銓彰",
+              "link": "",
+              "image": ""
+            },
+            {
+              "name": "朱宏國",
+              "link": "http://cgv.cs.nthu.edu.tw/hkchu",
+              "image": ""
+            },
+            {
+              "name": "李宗南",
+              "link": "http://edith.cse.nsysu.edu.tw/CNLee.htm",
+              "image": ""
+            },
+            {
+              "name": "李蔡彥",
+              "link": "http://www3.nccu.edu.tw/%7Eli/",
+              "image": ""
+            },
+            {
+              "name": "林昭宏",
+              "link": "http://dgl.geomatics.ncku.edu.tw/",
+              "image": ""
+            },
+            {
+              "name": "楊傳凱",
+              "link": "http://cgm.cs.ntust.edu.tw/lab/director.html",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "常務監事",
+          "group": [
+            {
+              "name": "歐陽明",
+              "link": "http://www.cmlab.csie.ntu.edu.tw/%7Eming/",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "監事",
+          "group": [
+            {
+              "name": "張銘光",
+              "link": "",
+              "image": ""
+            },
+            {
+              "name": "張鈞法",
+              "link": "http://cchang.wordpress.com/",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "秘書長",
+          "group": [
+            {
+              "name": "林文杰",
+              "link": "",
+              "image": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gen": "第二屆",
+      "period": "2013/08~2015/07",
+      "members": [
+        {
+          "position": "理事長",
+          "group": [
+            {
+              "name": "歐陽明",
+              "link": "http://www.cmlab.csie.ntu.edu.tw/%7Eming/",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "副理事長",
+          "group": [
+            {
+              "name": "王銓彰",
+              "link": "",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "常務理事",
+          "group": [
+            {
+              "name": "王銓彰",
+              "link": "",
+              "image": ""
+            },
+            {
+              "name": "李宗南",
+              "link": "http://edith.cse.nsysu.edu.tw/CNLee.htm",
+              "image": ""
+            },
+            {
+              "name": "歐陽明",
+              "link": "http://www.cmlab.csie.ntu.edu.tw/%7Eming/",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "理事",
+          "group": [
+            {
+              "name": "朱宏國",
+              "link": "http://cgv.cs.nthu.edu.tw/hkchu",
+              "image": ""
+            },
+            {
+              "name": "林文杰",
+              "link": "http://www.cs.nctu.edu.tw/%7Ewclin",
+              "image": ""
+            },
+            {
+              "name": "林昭宏",
+              "link": "http://dgl.geomatics.ncku.edu.tw/",
+              "image": ""
+            },
+            {
+              "name": "張鈞法",
+              "link": "http://cchang.wordpress.com/",
+              "image": ""
+            },
+            {
+              "name": "莊永裕",
+              "link": "http://www.csie.ntu.edu.tw/%7Ecyy/",
+              "image": ""
+            },
+            {
+              "name": "楊傳凱",
+              "link": "http://cgm.cs.ntust.edu.tw/lab/director.html",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "常務監事",
+          "group": [
+            {
+              "name": "莊榮宏",
+              "link": "http://cggmwww.csie.nctu.edu.tw/jhchuang/",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "監事",
+          "group": [
+            {
+              "name": "李蔡彥",
+              "link": "http://www3.nccu.edu.tw/%7Eli/",
+              "image": ""
+            },
+            {
+              "name": "張銘光",
+              "link": "",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "秘書長",
+          "group": [
+            {
+              "name": "陳炳宇",
+              "link": "http://graphics.csie.ntu.edu.tw/%7Erobin/",
+              "image": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gen": "第一屆",
+      "period": "2011/08~2013/07",
+      "members": [
+        {
+          "position": "理事長",
+          "group": [
+            {
+              "name": "歐陽明",
+              "link": "http://www.cmlab.csie.ntu.edu.tw/%7Eming/",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "常務理事",
+          "group": [
+            {
+              "name": "王銓彰",
+              "link": "",
+              "image": ""
+            },
+            {
+              "name": "李同益",
+              "link": "http://graphics.csie.ncku.edu.tw/Tony/tony.htm",
+              "image": ""
+            },
+            {
+              "name": "歐陽明",
+              "link": "http://www.cmlab.csie.ntu.edu.tw/%7Eming/",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "理事",
+          "group": [
+            {
+              "name": "林文杰",
+              "link": "http://www.cs.nctu.edu.tw/%7Ewclin",
+              "image": ""
+            },
+            {
+              "name": "張鈞法",
+              "link": "http://cchang.wordpress.com/",
+              "image": ""
+            },
+            {
+              "name": "陳維超",
+              "link": "",
+              "image": ""
+            },
+            {
+              "name": "黃科森",
+              "link": "",
+              "image": ""
+            },
+            {
+              "name": "楊傳凱",
+              "link": "http://cgm.cs.ntust.edu.tw/lab/director.html",
+              "image": ""
+            },
+            {
+              "name": "李宗南",
+              "link": "http://edith.cse.nsysu.edu.tw/CNLee.htm",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "名譽理事長",
+          "group": [
+            {
+              "name": "楊熙年",
+              "link": "",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "常務監事",
+          "group": [
+            {
+              "name": "莊榮宏",
+              "link": "http://cggmwww.csie.nctu.edu.tw/jhchuang/",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "監事",
+          "group": [
+            {
+              "name": "李蔡彥",
+              "link": "http://www3.nccu.edu.tw/%7Eli/",
+              "image": ""
+            },
+            {
+              "name": "張銘光",
+              "link": "",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "position": "秘書長",
+          "group": [
+            {
+              "name": "陳炳宇",
+              "link": "http://graphics.csie.ntu.edu.tw/%7Erobin/",
+              "image": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  

@@ -13,8 +13,5 @@ export const appConfig: ApplicationConfig = {
       withInMemoryScrolling({
       scrollPositionRestoration: 'enabled',
     })
-  ), 
-  provideAnimationsAsync(),
-  
-]
+  ), provideAnimationsAsync()]
 };
