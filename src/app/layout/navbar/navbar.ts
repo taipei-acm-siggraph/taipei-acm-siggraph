@@ -114,7 +114,7 @@ export class Navbar {
     const darkMode = this.darkModeService.isDark();
     const root = this.document.documentElement;
     const favicon = this.document.querySelector("link[rel*='icon']");
-    const newFaviconHref = `http://www.siggraph.org.tw/images/img05.jpg`;
+    const newFaviconHref = `assets/image/img05.jpg`;
     // const newFaviconHref = `assets/icons/favicon-${darkMode ? 'dark' : 'light'
     //   }.png`;
     this.renderer.setAttribute(favicon, 'href', newFaviconHref);

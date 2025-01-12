@@ -161,7 +161,8 @@ import { Logo } from '@shared/components/logo/logo';
               <div class="absolute inset-0  dark:bg-slate-800 bg-white rounded-full blur-[80px] translate-z-0"></div>
             </div>
             <div class="flex flex-col gap-3 text-center">
-              <img [src]="g.image" [width]="120" [height]="120" class="mx-auto" alt="description"/>
+              <!-- <img [src]="g.image" [width]="120" [height]="120" class="mx-auto" alt="description"/> -->
+              <img src="./assets/image/cat111.jpg" [width]="120" [height]="120" class="mx-auto" alt="description"/>
               <span class="text-xl font-semibold dark:text-white"><a [href]="g.link" class="hover:underline" target="_blank">{{g.name}}</a></span>
               <span class="text-gray-800 dark:text-gray-300">click the name</span>
             </div>
