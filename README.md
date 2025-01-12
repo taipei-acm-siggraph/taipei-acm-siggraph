@@ -15,5 +15,14 @@ Before starting the application, you need to rename the files inside the `src/en
 
 Wait to compile and go to http://localhost:4200 after compile finish
 
-
 This project is referenced from kevinflor.es
+
+## Push Github
+
+After "git push", please enter the commands below for deploying.
+
+```bash
+ng build  --base-href=/taipei-acm-siggraph/
+
+npx ngh --dir=dist/client/browser --no-silent
+```
